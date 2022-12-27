@@ -14,3 +14,12 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](#about)
 
 ## Portfolio Projects
+In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+
+### Grocery Store Sales Analysis
+
+**Code:** [`grocery_store.ipynb`](https://github.com/sorravithj/BI-and-R-Project/blob/main/grocery-store-2.ipynb)  
+**Description:** The dataset contains 9,994 sales records from a grocery store in India  
+**Skills:** data cleansing, data visualisation  
+**Technology:** R programming language, ggplot2, dplyr, lubridate  
+**Results:** Review sales over 4 years throughout all product categories and regions, and business recommendation based on data  
