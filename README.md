@@ -12,3 +12,5 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Table of Content
 - [About](#about)
+
+## Portfolio Projects
