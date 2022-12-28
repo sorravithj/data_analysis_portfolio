@@ -13,8 +13,9 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Table of Content
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-	+ [Grocery Store Sales Analysis](#grocery-store-sales-analysis)
+  + [Grocery Store Sales Analysis](#grocery-store-sales-analysis)
   + [Credit Card Transaction Analysis](#credit-card-transaction-analysis)
+  + [Extract sales data from SQL Server](#extract-sales-data-from-sql-server)
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
@@ -40,3 +41,5 @@ In this section I will list data analytics projects briefly describing the techn
 **Skills:** SQL coding, select, join operation, filter, group by  
 **Technology:** SQL Server, SQL language  
 **Results:** The merged dataframe that contains sales by days with all product hierachies from products' divisions to subclasses and the store location where they are sales and the status of each store whether it's still open or already closed.
+
+### Employee Exit Analysis
