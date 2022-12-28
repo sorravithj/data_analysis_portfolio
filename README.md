@@ -35,11 +35,13 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** Python, numpy, pandas, matplotlib, seaborn  
 **Results:** Python function to format large number to human format such as K for thousand and M for million, visualisations illustrate transaction volumes in several aspects and a set of business recommendation
 
-### Extract sales data from SQL Server
+### Extract sales data from SQL Server  
 **Code:** [`sales-data-extract.sql`](https://github.com/sorravithj/data_analysis_portfolio/blob/main/sales-data-from-ms-server.sql)  
 **Description:** There are 3 different tables in the database. The first one is sales transaction table which contain daily sales by product codes which contains sales recodes more than a million rows. The second table is d_merchadise table which is the look-up table with product code key from sales transaction table. this d_merchandise table contains all hierachical information about each product code. The third table is d_store table which is contain information of all stores, open and already closed. this third table will be joined with the sales transaction using store code key from each of the table. When merge all three tables together, the new dataframe will give the information about sales by product and by store format and store branch.  
 **Skills:** SQL coding, select, join operation, filter, group by  
 **Technology:** SQL Server, SQL language  
 **Results:** The merged dataframe that contains sales by days with all product hierachies from products' divisions to subclasses and the store location where they are sales and the status of each store whether it's still open or already closed.
 
-### Employee Exit Analysis
+### Employee Exit Analysis  
+**Presentation:** [`employee-exit.pdf`](https://github.com/sorravithj/data_analysis_portfolio/blob/main/exit-analysis-presentation.pdf)
+
