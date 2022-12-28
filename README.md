@@ -33,3 +33,5 @@ In this section I will list data analytics projects briefly describing the techn
 **Skills:** Python coding, data exploration, data cleansing, data transfomation, data merging, descriptive statistics, data visualisation  
 **Technology:** Python, numpy, pandas, matplotlib, seaborn  
 **Results:** Python function to format large number to human format such as K for thousand and M for million, visualisations illustrate transaction volumes in several aspects and a set of business recommendation
+
+### Extract sales data from SQL Server
