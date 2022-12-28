@@ -16,6 +16,7 @@ This is a repository to showcase skills, share projects and track my progress in
   + [Grocery Store Sales Analysis](#grocery-store-sales-analysis)
   + [Credit Card Transaction Analysis](#credit-card-transaction-analysis)
   + [Extract sales data from SQL Server](#extract-sales-data-from-sql-server)
+  + [Employee Exit Analysis](#employee-exit-analysis)
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
