@@ -35,3 +35,5 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** Python function to format large number to human format such as K for thousand and M for million, visualisations illustrate transaction volumes in several aspects and a set of business recommendation
 
 ### Extract sales data from SQL Server
+**Code:** [`sales-data-extract.sql`](https://github.com/sorravithj/data_analysis_portfolio/blob/main/sales-data-from-ms-server.sql)  
+
