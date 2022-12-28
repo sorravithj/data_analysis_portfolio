@@ -21,7 +21,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Grocery Store Sales Analysis
 
-**Code:** [`grocery_store.ipynb`](https://github.com/sorravithj/data_analysis_portfolio/blob/main/grocery-store-sales_analysis.ipynb)  
+**Code:** R: [`grocery_store.ipynb`](https://github.com/sorravithj/data_analysis_portfolio/blob/main/grocery-store-sales_analysis.ipynb)  
 **Description:** The dataset contains 9,994 sales records from a grocery store in India placed by customers living in the state of Tamil Nadu on a grocery delivery application.  The project includes the following steps: data loading, data structure overview, data cleansing and processing, exploratory data analysis, analyzing sales based on product categories, regions, and years with explanation and business recommendation.  
 **Skills:** R coding, data exploration, data cleansing, descriptive statistics, data visualisation  
 **Technology:** R programming language, ggplot2, dplyr, lubridate  
@@ -29,14 +29,14 @@ In this section I will list data analytics projects briefly describing the techn
   
 ### Credit Card Transaction Analysis
 
-**Code:** [`credit-transaction.ipynb`](https://github.com/sorravithj/data_analysis_portfolio/blob/main/credit-card-transaction-analysis.ipynb)  
+**Code:** Python: [`credit-transaction.ipynb`](https://github.com/sorravithj/data_analysis_portfolio/blob/main/credit-card-transaction-analysis.ipynb)  
 **Description:** This data has more than a million transactions generated from multi credit card companies in the United States. The data also covers decades of purchases, and includes multiple cards from many of the consumers. Instead of R programming language, this project used Python to do the tasks which include the following steps: data loading, data structure overview, data cleansing and processing, data merging, removing outliers and unwanted data points, exploratory data analysis, analyzing transaction volumes based on year, states of purchasing, and transaction categories with explanation and business recommendation.   
 **Skills:** Python coding, data exploration, data cleansing, data transfomation, data merging, descriptive statistics, data visualisation  
 **Technology:** Python, numpy, pandas, matplotlib, seaborn  
 **Results:** Python function to format large number to human format such as K for thousand and M for million, visualisations illustrate transaction volumes in several aspects and a set of business recommendation
 
 ### Extract sales data from SQL Server  
-**Code:** [`sales-data-extract.sql`](https://github.com/sorravithj/data_analysis_portfolio/blob/main/sales-data-from-ms-server.sql)  
+**Code:** SQL: [`sales-data-extract.sql`](https://github.com/sorravithj/data_analysis_portfolio/blob/main/sales-data-from-ms-server.sql)  
 **Description:** There are 3 different tables in the database. The first one is sales transaction table which contain daily sales by product codes which contains sales recodes more than a million rows. The second table is d_merchadise table which is the look-up table with product code key from sales transaction table. this d_merchandise table contains all hierachical information about each product code. The third table is d_store table which is contain information of all stores, open and already closed. this third table will be joined with the sales transaction using store code key from each of the table. When merge all three tables together, the new dataframe will give the information about sales by product and by store format and store branch.  
 **Skills:** SQL coding, select, join operation, filter, group by  
 **Technology:** SQL Server, SQL language  
