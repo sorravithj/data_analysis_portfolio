@@ -19,6 +19,8 @@ This is a repository to showcase skills, share projects and track my progress in
     + [Credit Card Transaction Analysis](#credit-card-transaction-analysis)
   + SQL
     + [Extract sales data from SQL Server](#extract-sales-data-from-sql-server)
+  + BI Tools
+    + [Data Studio: Talent Acquisition Dashboard](#talent-acquisition-dashboard)
   + Presentation
     + [Employee Exit Analysis](#employee-exit-analysis)
 ## Portfolio Projects
