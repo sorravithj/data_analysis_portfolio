@@ -53,3 +53,6 @@ In this section I will list data analytics projects briefly describing the techn
 **Skills:** R coding, data exploration, data cleansing, descriptive statistics, data visualisation, and business knowledge    
 **Technology:** R programming language, ggplot2, dplyr, readr, lubridate, and janitor   
 **Results:** review of employee demography both active and already left, summarise feedback from exit interview, summary and business recommendation on how to solve or relieve the problem.
+
+### Talent Recruitment Dashboard
+**Dashboard:** Google Data Studio: [`recruitment-dashboard.pdf`](https://github.com/sorravithj/data_analysis_portfolio/blob/main/recruitment-dashboard-data-studio.pdf)
