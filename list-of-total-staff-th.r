@@ -44,10 +44,11 @@ columns = c("month", "month_end_hc", "joiner_this_month", "leaver_this_month",
   "office_location", "division", "department", "hr_group", "job_title", "tenure_group")
 
 
-hc_report_th_last_month <- hc_th_latest_month[,columns]
+hc_th_last_month <- hc_th_latest_month[,columns]
 
 #EXPORT NEWLY DATAFRAME TO CSV
 
-Name <- paste0(getwd(),"/","TH_MBR",End_date,".csv")
+#create dynamic path name to a file
+path_name <- paste0(getwd(),"/","hc_report_th",end_date_last_month,".csv")
 
-write.csv(TH_MBR_Staff_data, Name, row.names = FALSE)
+write.csv(hc_th_last_month, path_name, row.names = FALSE)
