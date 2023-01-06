@@ -19,7 +19,7 @@ This is a repository to showcase skills, share projects and track my progress in
     + [Credit Card Transaction Analysis](#credit-card-transaction-analysis)
   + SQL
     + [Extract sales data from SQL Server](#extract-sales-data-from-sql-server)
-  + BI Tools
+  + Business Intelligence Dashboard
     + [Data Studio: Talent Acquisition Dashboard](#talent-acquisition-dashboard)
   + Presentation
     + [Employee Exit Analysis](#employee-exit-analysis)
@@ -33,6 +33,9 @@ In this section I will list data analytics projects briefly describing the techn
 **Skills:** R coding, data exploration, data cleansing, descriptive statistics, data visualisation  
 **Technology:** R programming language, ggplot2, dplyr, lubridate  
 **Results:** Review sales over 4 years throughout all product categories and regions, and business recommendation based on data  
+
+### Report Generation Automation Using R
+**Code:** R: [`report_automation.R`](https://github.com/sorravithj/data_analysis_portfolio/blob/main/list-of-total-staff-th.r)
   
 ### Credit Card Transaction Analysis
 
