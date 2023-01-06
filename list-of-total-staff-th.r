@@ -4,16 +4,11 @@ library(rio)
 library(readxl)
 library(janitor)
 library(stats)
-library(ggpubr)
-library(ggplot2)
-library(ggtext)
-library(RColorBrewer)
-library(readxl)
 library(readr)
 library(lubridate)
 
 #IMPORT FULL HEADCOUNT REPORT YTD
-headcount_report <- read_csv("headcount-report-jun22.csv")
+headcount_report <- read_csv("headcount_report.csv")
 
 #LOWER CASE ALL COLUMN NAMES
 headcount_report <- clean_names(Stream_HC)
