@@ -35,7 +35,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** Review sales over 4 years throughout all product categories and regions, and business recommendation based on data  
 
 ### Report Generation Automation Using R
-**Code:** R: [`report_automation.R`](https://github.com/sorravithj/data_analysis_portfolio/blob/main/list-of-total-staff-th.r)
+**Code:** R: [`headcount_report_automation.R`](https://github.com/sorravithj/data_analysis_portfolio/blob/main/list-of-total-staff-th.r)
   
 ### Credit Card Transaction Analysis
 
