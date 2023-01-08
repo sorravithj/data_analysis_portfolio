@@ -6,7 +6,7 @@ Hello! I'm Sorravith. I have a background in Psychology. Throughout the years in
 
 During the times of working I have advanced my skills in many different areas including microsoft Excel, Power Query, SQL, R programming language, Python, and Power BI.
 
-I have completed several courses and certicates in data analytics. [https://www.linkedin.com/in/sorravithj/details/certifications/]
+I have completed several courses and certicates in data analytics. Please, see list of certificates [`here`](https://www.linkedin.com/in/sorravithj/details/certifications/)
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
