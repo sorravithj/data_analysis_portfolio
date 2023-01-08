@@ -87,4 +87,5 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** review of employee demography both active and already left, summarise feedback from exit interview, summary and business recommendation on how to solve or relieve the problem.
 
 ## Contact
-- Email: sorravith.jch@gmail.com
+- LinkedIn: [`@sorravithj`](https://www.linkedin.com/in/sorravithj/)  
+- E-mail: sorravith.jch@gmail.com
