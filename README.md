@@ -70,3 +70,6 @@ In this section I will list data analytics projects briefly describing the techn
 **Skills:** data preparation, data transformation, statistical analysis, data visualisation  
 **Technology:** Google Data Studio, Google Sheets  
 **Result:** Talent Acquisition Dashboard made from Data Studio showing key indicators including Available and Hired Position by countries, departments and by Recruiters, Average of time-to-fill persition in each month and tracking system for recruiters letting them know how many positions left they need to fill in.
+
+### Promotion Campaign Dashboard
+**Dashboard:** Power BI: [`promotion-dashboard.pdf`](https://drive.google.com/file/d/1yikUz0orXr0qKbyGw0u0-BKJsmL1PHEL/view?usp=sharing)  
