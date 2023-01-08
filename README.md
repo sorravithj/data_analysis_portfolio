@@ -62,14 +62,6 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** MS SQL  
 **Results:** The merged dataframe that contains sales by days with all product hierachies from products' divisions to subclasses and the store location where they are sales and the status of each store whether it's still open or already closed.
 
-### Employee Exit Analysis  
-**Presentation:** [`employee-exit.pdf`](https://github.com/sorravithj/data_analysis_portfolio/blob/main/exit-analysis-presentation.pdf)  
-  
-**Description:** There's a company where employee turnover rate has been a problem for a long time and consistently causing disruption to the business and then one day a company decided to understand what is really the problem. Why employees continue to leave the company. In this stimulated dataset with 778 employees or 778 records, each record will have the data on employees whether they were active, new joiners, years of service, gender, salary and feedback from exit process. This project is using R and RStudio as a tools to achive the result from loading the data, data cleansing, removing outliers and processing, descriptive statistics of the data, data visualisation, result explanation and business recommendation    
-**Skills:** R coding, data exploration, data cleansing, descriptive statistics, data visualisation, and business knowledge    
-**Technology:** R Studio, ggplot2, dplyr, readr, lubridate, and janitor   
-**Results:** review of employee demography both active and already left, summarise feedback from exit interview, summary and business recommendation on how to solve or relieve the problem.
-
 ### Talent Acquisition Dashboard
 **Dashboard:** Google Data Studio: [`recruitment-dashboard.pdf`](https://drive.google.com/file/d/1nY0Adlebnb3hDmNJ99yccywwTrnYgUkO/view?usp=sharing)  
   
@@ -84,3 +76,12 @@ In this section I will list data analytics projects briefly describing the techn
 **Description:** The dataset of this dashboard contains more than 10 million rows of sales from a retail business including date, store format, campaign name, campaign week to head of each product category. This promotion campaign tracking dashboard includes 5 key metrics which are Sales, GP, Compensation, Discount ,and Other Incomes. The process of this dashboard starting from connecting SQL server to Power BI, cleansing and transforming data using Power BI DAX and Power Query, using R Script as a data source for data outside company's database, and creating tables and visualisations.  
 **Skills:** SQL, R coding, DAX, Power Query, data preparation, data transformation, statistical analysis, data visualisation    
 **Technology:** Power BI, MS SQL, R Studio, DAX, Power Query
+
+
+### Employee Exit Analysis  
+**Presentation:** [`employee-exit.pdf`](https://github.com/sorravithj/data_analysis_portfolio/blob/main/exit-analysis-presentation.pdf)  
+  
+**Description:** There's a company where employee turnover rate has been a problem for a long time and consistently causing disruption to the business and then one day a company decided to understand what is really the problem. Why employees continue to leave the company. In this stimulated dataset with 778 employees or 778 records, each record will have the data on employees whether they were active, new joiners, years of service, gender, salary and feedback from exit process. This project is using R and RStudio as a tools to achive the result from loading the data, data cleansing, removing outliers and processing, descriptive statistics of the data, data visualisation, result explanation and business recommendation    
+**Skills:** R coding, data exploration, data cleansing, descriptive statistics, data visualisation, and business knowledge    
+**Technology:** R Studio, ggplot2, dplyr, readr, lubridate, and janitor   
+**Results:** review of employee demography both active and already left, summarise feedback from exit interview, summary and business recommendation on how to solve or relieve the problem.
