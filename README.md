@@ -68,7 +68,7 @@ In this section I will list data analytics projects briefly describing the techn
   
 **Description:**  
 
-This dashboard contains datasets of talent acquisition team from a small start-up company with employees around 500 hundeds across 5 countries in Asia showing the detail of company's manpower movement thorughout a year. 
+This dashboard contains datasets of talent acquisition team from a small start-up company with employees around 500 across 5 countries in Asia showing the detail of company's manpower movement thorughout a year. 
 
 The data includes the number of positions available and closed, successful and rejection rate of candidates.  
   
