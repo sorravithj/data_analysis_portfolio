@@ -89,7 +89,7 @@ Inside the Looker Studio includes using functions and operators to create calcul
 **Findings:**
 
 1.	The company manpower had one big problem which were people keep resigning and the talent team kept filling the same positions which were shown on replacement and addition stacked bar chart. 
-2.	The month after the bonus payout (April), there were insignificant increase in time-to-fill per position because a lot of employees including talent team resigned this month. This was called the crisis month.  
+2.	The month after the bonus payout (April), there were significant increase in time-to-fill per position because a lot of employees including talent team resigned this month. This was called the crisis month.  
 3.	Only around 65 percent of available positions can be filled.  
 4.	Tech and client facing-related positions were the most that left and hard to replace. 
 
