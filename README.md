@@ -65,7 +65,11 @@ In this section I will list data analytics projects briefly describing the techn
 ### Talent Acquisition Dashboard
 **Dashboard:** Google Data Studio: [`recruitment-dashboard.pdf`](https://drive.google.com/file/d/1nY0Adlebnb3hDmNJ99yccywwTrnYgUkO/view?usp=sharing)  
   
-**Description:** This is the dataset of talent acquisition team from a small company with employees around 500 hundeds across 5 countries in Asia. This BI dashboard contains the detail of company's manpower thorughout a year such as positions available and closed, successful and rejection rate of candidates. Primary sources of this daahboard come from google spreadsheets connected to it. Most data manipulation process happened inside Google sheets which includes fixing incorrect, incomplete, duplicate or otherwise erroneous data, transforming data into usable format while the process of creating the Google Data Studio dashboard includes using functions and operators to create calculated fields (e.g.,  SUM, AVG, COUNT, CASE WHEN, IF), data blending (joining tables), data filters, generating appropriate tables and visualisation.  
+  
+**Description:** This dashboard contains datasets of talent acquisition team from a small start-up company with employees around 500 hundeds across 5 countries in Asia showing the detail of company's manpower movement thorughout a year. 
+
+The data includes the number of positions available and closed, successful and rejection rate of candidates.  
+  
 **Skills:** data preparation, data transformation, statistical analysis, data visualisation  
 **Technology:** Google Data Studio, Google Sheets  
 **Result:** Talent Acquisition Dashboard made from Data Studio showing key indicators including Available and Hired Position by countries, departments and by Recruiters, Average of time-to-fill persition in each month and tracking system for recruiters letting them know how many positions left they need to fill in.
