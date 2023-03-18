@@ -21,7 +21,7 @@ This is a repository to showcase skills, share projects and track my progress in
   + SQL
     + [Extract sales data from SQL Server](#extract-sales-data-from-sql-server)
   + Business Intelligence Dashboard
-    + [Data Studio: Talent Acquisition Dashboard](#talent-acquisition-dashboard)
+    + [Looker Studio: Talent Acquisition Dashboard](#talent-acquisition-dashboard)
     + [Power BI: Promotion Campaign Dashboard](#promotion-campaign-dashboard)
   + Presentation
     + [Employee Exit Analysis](#employee-exit-analysis)
