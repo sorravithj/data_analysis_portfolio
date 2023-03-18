@@ -64,15 +64,37 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Talent Acquisition Dashboard
 **Dashboard:** Google Data Studio: [`recruitment-dashboard.pdf`](https://drive.google.com/file/d/1nY0Adlebnb3hDmNJ99yccywwTrnYgUkO/view?usp=sharing)  
+**Technology:** Google Data Studio, Google Sheets, R Studio, Web API  
   
-  
-**Description:** This dashboard contains datasets of talent acquisition team from a small start-up company with employees around 500 hundeds across 5 countries in Asia showing the detail of company's manpower movement thorughout a year. 
+**Description:**  
+
+This dashboard contains datasets of talent acquisition team from a small start-up company with employees around 500 hundeds across 5 countries in Asia showing the detail of company's manpower movement thorughout a year. 
 
 The data includes the number of positions available and closed, successful and rejection rate of candidates.  
   
-**Skills:** data preparation, data transformation, statistical analysis, data visualisation  
-**Technology:** Google Data Studio, Google Sheets  
-**Result:** Talent Acquisition Dashboard made from Data Studio showing key indicators including Available and Hired Position by countries, departments and by Recruiters, Average of time-to-fill persition in each month and tracking system for recruiters letting them know how many positions left they need to fill in.
+**Data Source:**
+
+Primary sources of this daahboard came from google spreadsheet software  connected to the dashboard. The data were pulled using API provided by the systems (HRIS) and R script’s googlesheets4 package from tidyverse. 
+
+**Data Flow Diagram:** HRIS systems > Web API and R script > Google Sheets > Looker Studio  
+
+**Data Manipulation:**  
+
+Data manipulation process happened two places which were inside the google sheets and inside the google looker studio itself.
+
+Inside Google sheets the data manipulation included fixing incorrect, incomplete, duplicate, or otherwise erroneous data using spreadsheet function such as index, match, vlookup, if(s), iferror, right, left, sum, avg, count etc.
+
+Inside the Looker Studio includes using functions and operators to create calculated fields (e.g., SUM, AVG, COUNT, CASE WHEN, IF), data blending for joining multiple tables together. 
+
+**Findings:**
+
+1.	The company manpower had one big problem which were people keep resigning and the talent team kept filling the same positions which were shown on replacement and addition stacked bar chart. 
+2.	The month after the bonus payout (April), there were insignificant increase in time-to-fill per position because a lot of employees including talent team resigned this month. This was called the crisis month.  
+3.	Only around 65 percent of available positions can be filled.  
+4.	Tech and client facing-related positions were the most that left and hard to replace. 
+
+**Implication:**
+The findings led the company to conduct current employees survey and exit feedback. The roots of the problem came from pay rate and direct managers for the tech department but from client if the client-facing positions. This helped the company to solve the problem with the right solution afterwards.  
 
 ### Promotion Campaign Dashboard
 **Dashboard:** Power BI: [`promotion-dashboard.pdf`](https://drive.google.com/file/d/1yikUz0orXr0qKbyGw0u0-BKJsmL1PHEL/view?usp=sharing)  
