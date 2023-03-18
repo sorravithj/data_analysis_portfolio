@@ -63,8 +63,8 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** The merged dataframe that contains sales by days with all product hierachies from products' divisions to subclasses and the store location where they are sales and the status of each store whether it's still open or already closed.
 
 ### Talent Acquisition Dashboard
-**Dashboard:** Google Data Studio: [`recruitment-dashboard.pdf`](https://drive.google.com/file/d/1nY0Adlebnb3hDmNJ99yccywwTrnYgUkO/view?usp=sharing)  
-**Technology:** Google Data Studio, Google Sheets, R Studio, Web API  
+**Dashboard:** Looker Studio: [`recruitment-dashboard.pdf`](https://drive.google.com/file/d/1nY0Adlebnb3hDmNJ99yccywwTrnYgUkO/view?usp=sharing)  
+**Technology:** Looker Studio, Google Sheets, R Studio, Web API  
   
 **Description:**  
 
