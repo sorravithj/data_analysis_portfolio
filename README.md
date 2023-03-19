@@ -110,7 +110,7 @@ The purpose of this dashboard is to track top 5 most important measures which ar
 **Data Flow Diagram:**  
 
 1. SQL Server > Power BI  
-2.SQL Server > R > Parquet file > Power BI  
+2. SQL Server > R > Parquet file > Power BI   
 
 **Data Manipulation:**  
 
