@@ -98,11 +98,38 @@ The findings led the company to conduct current employees survey and exit feedba
 
 ### Promotion Campaign Dashboard
 **Dashboard:** Power BI: [`promotion-dashboard.pdf`](https://drive.google.com/file/d/1yikUz0orXr0qKbyGw0u0-BKJsmL1PHEL/view?usp=sharing)  
-  
-**Description:** The dataset of this dashboard contains more than 10 million rows of sales from a retail business including date, store format, campaign name, campaign week to head of each product category. This promotion campaign tracking dashboard includes 5 key metrics which are Sales, GP, Compensation, Discount ,and Other Incomes. The process of this dashboard starting from connecting SQL server to Power BI, cleansing and transforming data using Power BI DAX and Power Query, using R Script as a data source for data outside company's database, and creating tables and visualisations.  
-**Skills:** SQL, R coding, DAX, Power Query, data preparation, data transformation, statistical analysis, data visualisation    
-**Technology:** Power BI, MS SQL, R Studio, DAX, Power Query
+**Technology:** Power BI, MS SQL, R Studio, DAX, Power Query  
 
+**Description:**  
+This BI dashboard contains more than 10 million rows of sales from a retail business including date, store format, campaign name, campaign week to head of each product category. 
+
+The purpose of this dashboard is to track top 5 most important measures which are Sales, GP, Compensation, Discount, and Other Incomes which will help company decide which products should and shouldn’t run the promotion and what the promotion should be run at a given store.  
+ 
+**Data Source:** MS SQL Server   
+
+**Data Flow Diagram:**  
+
+1. SQL Server > Power BI  
+2.SQL Server > R > Parquet file > Power BI  
+
+**Data Manipulation:**  
+
+Data Manipulation and Data Cleansing happened two places which were SQL Server and Power Query and DAX inside the Power BI. 
+
+Inside the SQL Server the data manipulation included extracting part of string, joining multiple tables and aggregation using functions such as MONTH, YEAR, RIGHT, LEFT, LEFT JOIN, SUM etc. 
+
+Inside the Power Query and DAX the data manipulation included conditial column, pivot, unpivot, append queries, create relationship, and aggregation using functions such as Table.AddColumn, each if, Table.Unpivot, Table.Combine, RELATE, CALCULATE, SUM, SUMX, DIVIDE 
+
+**Findings:** 
+
+1.	While in 2021 the store sold more products in normal price than 2021 but no significant increase of GP. GP from normal price without promotion also dropped a little bit when compared to 2021. 
+2.	Some product categories such as coffee or club generate more sales when they were on promotion. Hence most of the GP came from sales during promotion period. These are the product that have high cost to make.  
+3.	InStore sales promotion campaign is the campaign that generate GP per sales back to the company the most. 
+
+**Implication:**  
+
+1.	To increase GP, the company should not lower or run the promotion on the products such as perishable or food because these are the products that customers are buying whether they had the promotion or not.  
+2.	On other hands to boost GP in some product categories such as coffee and club which now gave lower GP, we need to run the promotion campaign such as InStore sales which will help the company sales more product quantity and gave rise to the GP until the customers are willing to buy the product full price and %GP will then increase.  
 
 ### Employee Exit Analysis  
 **Presentation:** [`employee-exit.pdf`](https://github.com/sorravithj/data_analysis_portfolio/blob/main/exit-analysis-presentation.pdf)  
