@@ -122,7 +122,7 @@ Inside the Power Query and DAX the data manipulation included conditial column, 
 
 **Findings:** 
 
-1.	While in 2021 the store sold more products in normal price than 2021 but no significant increase of GP. GP from normal price without promotion also dropped a little bit when compared to 2021. 
+1.	While in 2022 the store sold more products in normal price than 2021 but no significant increase of GP. GP from normal price without promotion also dropped a little bit when compared to 2021. 
 2.	Some product categories such as coffee or club generate more sales when they were on promotion. Hence most of the GP came from sales during promotion period. These are the product that have high cost to make.  
 3.	InStore sales promotion campaign is the campaign that generate GP per sales back to the company the most. 
 
