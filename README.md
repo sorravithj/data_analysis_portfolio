@@ -2,9 +2,13 @@
 
 ## About
 
-Hello! I'm Sorravith. I have a background in Psychology. Throughout the years in college I have gained technological knowledge in R programming language and SPSS which are frequently used in reseach study. I have worked in data analysis field for almost 2 years now. I have begun my career in data analysis field with People Data Analyst role in HR deaprtment in a technological startup. After about one and a half year, I decided to start my current role as Business Intelligence Specialist in Business Performance department with one of the biggest retail companies in the country.
+Hello! I'm Sorravith, and I have a background in Psychology. Throughout my college years, I gained technological knowledge in R programming language and SPSS, both of which are frequently utilized in research studies. Over the past two years, I have been working in the field of data analysis.
 
-During the times of working I have advanced my skills in many different areas including microsoft Excel, Power Query, SQL, R programming language, Python, and Power BI.
+My journey in data analysis began as a People Data Analyst in the HR department of a technological startup. After about a year and a half, I transitioned to my current role as a Business Intelligence Specialist in the Business Performance department of one of the largest retail companies in the country.
+
+During my professional experience, I have honed my skills in various areas, including Microsoft Excel, Power Query, SQL, R programming language, Python, and Power BI. These skills have allowed me to perform data analysis tasks effectively and derive meaningful insights to drive business performance and decision-making.
+
+I am passionate about leveraging data to uncover valuable insights and contribute to the success of organizations. With my combined expertise in psychology and data analysis, I bring a unique perspective to understanding human behavior and business outcomes. I am constantly seeking new opportunities to further develop my skills and make a positive impact through data analysis.
 
 I have completed several courses and certicates in data analytics. Please, see list of certificates [`here`](https://www.linkedin.com/in/sorravithj/details/certifications/)
 
