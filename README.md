@@ -35,7 +35,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Description:** The dataset comprises 9,994 sales records from a grocery store in India. These records were placed by customers residing in the state of Tamil Nadu using a popular grocery delivery application. The project encompasses several essential steps, which include data loading, performing data cleansing and processing, conducting exploratory data analysis, analyzing sales based on product categories, regions, and years, and finally providing explanations and business recommendations based on the findings.  
 **Skills:** R coding, data exploration, data cleansing, descriptive statistics, data visualisation  
 **Technology:** R programming language, ggplot2, dplyr, lubridate  
-**Results:** Review sales over 4 years throughout all product categories and regions, and business recommendation based on data  
+**Results:** the project successfully processed and analyzed the sales data, revealing valuable insights that can guide business decisions and strategies for the grocery store in Tamil Nadu, India.  
 
 ### Report Generation Automation Using R
 **Code:** R: [`headcount-report-automation.R`](https://github.com/sorravithj/data_analysis_portfolio/blob/main/list-of-total-staff-th.r) 
