@@ -135,10 +135,10 @@ Inside the Power Query and DAX the data manipulation included conditial column, 
 ### Employee Exit Analysis  
 **Presentation:** [`employee-exit.pdf`](https://github.com/sorravithj/data_analysis_portfolio/blob/main/exit-analysis-presentation.pdf)  
   
-**Description:** There's a company where employee turnover rate has been a problem for a long time and consistently causing disruption to the business and then one day a company decided to understand what is really the problem. Why employees continue to leave the company. In this stimulated dataset with 778 employees or 778 records, each record will have the data on employees whether they were active, new joiners, years of service, gender, salary and feedback from exit process. This project is using R and RStudio as a tools to achive the result from loading the data, data cleansing, removing outliers and processing, descriptive statistics of the data, data visualisation, result explanation and business recommendation    
+**Description:** A company faced persistent disruption due to high employee turnover and decided to investigate the underlying causes. Using a simulated dataset with 778 records, the project analyzed employee data including status, tenure, gender, salary, and exit feedback. R and RStudio were utilized for tasks such as data loading, cleansing, outlier removal, descriptive statistics, data visualization, and deriving insights.    
 **Skills:** R coding, data exploration, data cleansing, descriptive statistics, data visualisation, and business knowledge    
 **Technology:** R Studio, ggplot2, dplyr, readr, lubridate, and janitor   
-**Results:** review of employee demography both active and already left, summarise feedback from exit interview, summary and business recommendation on how to solve or relieve the problem.
+**Results:** this project uncovered the underlying causes of employee turnover, enabling the company to make informed decisions and implement effective measures to reduce turnover and improve overall employee satisfaction and retention.
 
 ## Contact
 - LinkedIn: [`@sorravithj`](https://www.linkedin.com/in/sorravithj/)  
