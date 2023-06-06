@@ -50,10 +50,10 @@ This script serves as a country headcount report generator, designed to process 
 
 **Code:** Python: [`credit-transaction.ipynb`](https://github.com/sorravithj/data_analysis_portfolio/blob/main/credit-card-transaction-analysis.ipynb)
   
-**Description:** This data has more than a million transactions generated from multi credit card companies in the United States. The data also covers decades of purchases, and includes multiple cards from many of the consumers. Instead of R programming language, this project used Python to do the tasks which include the following steps: data loading, data structure overview, data cleansing and processing, data merging, removing outliers and unwanted data points, exploratory data analysis, analyzing transaction volumes based on year, states of purchasing, and transaction categories with explanation and business recommendation.   
+**Description:** The dataset consists of over a million transactions from multiple credit card companies in the United States. It covers decades of purchases, including multiple cards per consumer. This project utilizes Python instead of R for tasks such as data loading, structure overview, cleansing, processing, merging, outlier removal, and exploratory analysis. It analyzes transaction volumes by year, purchasing states, and categories, providing explanations and business recommendations.   
 **Skills:** Python coding, data exploration, data cleansing, data transfomation, data merging, descriptive statistics, data visualisation  
 **Technology:** Python, numpy, pandas, matplotlib, seaborn  
-**Results:** Python function to format large number to human format such as K for thousand and M for million, visualisations illustrate transaction volumes in several aspects and a set of business recommendation
+**Results:** the project generated valuable insights into the credit card transaction data, allowing for informed decision-making and strategic planning within the credit card industry.
 
 ### Extract sales data from SQL Server  
 **Code:** SQL: [`sales-data-extract.sql`](https://github.com/sorravithj/data_analysis_portfolio/blob/main/sales-data-from-ms-server.sql)  
