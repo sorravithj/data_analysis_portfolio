@@ -32,7 +32,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Code:** R: [`grocery_store.ipynb`](https://github.com/sorravithj/data_analysis_portfolio/blob/main/grocery-store-sales_analysis.ipynb)  
   
-**Description:** The dataset comprises 9,994 sales records from a grocery store in India. These records were placed by customers residing in the state of Tamil Nadu using a popular grocery delivery application. The project encompasses several essential steps, which include data loading, gaining an overview of the data structure, performing data cleansing and processing, conducting exploratory data analysis, analyzing sales based on product categories, regions, and years, and finally providing explanations and business recommendations based on the findings.  
+**Description:** The dataset comprises 9,994 sales records from a grocery store in India. These records were placed by customers residing in the state of Tamil Nadu using a popular grocery delivery application. The project encompasses several essential steps, which include data loading, performing data cleansing and processing, conducting exploratory data analysis, analyzing sales based on product categories, regions, and years, and finally providing explanations and business recommendations based on the findings.  
 **Skills:** R coding, data exploration, data cleansing, descriptive statistics, data visualisation  
 **Technology:** R programming language, ggplot2, dplyr, lubridate  
 **Results:** Review sales over 4 years throughout all product categories and regions, and business recommendation based on data  
