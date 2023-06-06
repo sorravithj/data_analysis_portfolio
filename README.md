@@ -22,6 +22,7 @@ This is a repository to showcase skills, share projects and track my progress in
     + [Report Generation Automation Using R](#report-generation-automation-using-r)
   + Python
     + [Credit Card Transaction Analysis](#credit-card-transaction-analysis)
+    + [Boston Housing Analysis](#boston-housing-analysis)
   + SQL
     + [Extract sales data from SQL Server](#extract-sales-data-from-sql-server)
   + Business Intelligence Dashboard
