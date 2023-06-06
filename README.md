@@ -65,7 +65,7 @@ This script serves as a country headcount report generator, designed to process 
   
 **Description:** The project aims to analyze factors influencing housing prices in Boston using a comprehensive dataset. The dataset includes attributes such as INDUS, CHAS, NOX, AGE, DIS, PTRATIO, and MEDV. By leveraging Python, the project performs tasks such as data loading, preprocessing, and predictive model building. It explores housing market dynamics, identifies significant predictors, and builds predictive models for estimating housing prices. The project provides valuable insights for buyers and sellers, contributing to informed decision-making in the Boston real estate market.   
 **Skills:** Python coding, data preprocessing, data analysis, data visualisation, predictive modeling  
-**Technology:** Python, numpy, pandas, matplotlib, seaborn  
+**Technology:** Python, numpy, pandas, matplotlib, seaborn, scipy.stats, statsmodels  
 **Results:** The project generates insights into the dynamics of the Boston housing market, allowing for informed decision-making by stakeholders. Predictive models provide estimations of housing prices based on relevant attributes, aiding buyers and sellers in their real estate transactions.
 
 ### Extract sales data from SQL Server  
