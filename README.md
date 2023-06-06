@@ -40,10 +40,11 @@ In this section I will list data analytics projects briefly describing the techn
 ### Report Generation Automation Using R
 **Code:** R: [`headcount-report-automation.R`](https://github.com/sorravithj/data_analysis_portfolio/blob/main/list-of-total-staff-th.r) 
   
-**Description:** This is a country headcount report generator taking an original headcount report of more than 200k rows which include every country that a company has operated in. This report generator will produce a last-month net headcount report containing all employees in Thailand which will then be used by HR team and country CEO to plan for the manpower of the current month within the Thailand office. Instead of spending time hours of hours to generate this country specific report, this script will take just about 10 secs to complete the tasks.  
+**Description:** 
+This script serves as a country headcount report generator, designed to process an original headcount report consisting of over 200,000 rows. This comprehensive report encompasses every country in which the company operates. The purpose of the report generator is to produce a net headcount report specifically for the previous month, focusing on employees located in Thailand. This report will be utilized by the HR team and the country CEO to effectively plan for the current month's manpower requirements within the Thailand office.  
 **Skills:** R Coding, data preparation, data tansformation, report automation    
 **Tecnology:** R Studio, readr, dplyr, tidyr, janitor, lubridate  
-**Results:** Report Generation Automation r-script which will produce a country headcount report with less than 10 secs.
+**Results:** The significance of this script lies in its efficiency. Rather than investing hours upon hours in generating a country-specific report manually, this script accomplishes the task in approximately 10 seconds.
   
 ### Credit Card Transaction Analysis
 
