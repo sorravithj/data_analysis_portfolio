@@ -41,7 +41,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Dataset:** The dataset used for this project comprises 9,994 sales records from a grocery store located in India. These records represent transactions made by customers residing in the state of Tamil Nadu. The data was collected from a popular grocery delivery application. Each sales record provides valuable information about the purchased items, such as product names, quantities, prices, and timestamps. 
 
-**Skills:** R coding in data manipulation (data exloration, data cleansing), visualisation (ggplot2, dplyr, lubridate packages) and descriptive statistics
+**Skills:** R coding in data exloration, data cleansing (readr, dplye, tidyr, janitor, lubridate packages), visualisation (ggplot2, dplyr, lubridate packages) and descriptive statistics
 
 **Software:** Jupyterlab  
 
@@ -55,9 +55,9 @@ The purpose of the report generator is to produce a net headcount report specifi
 
 **Dataset:** The dataset used is a comprehensive headcount report with 200,000+ rows. It includes employee information such as ID, name, country, department, position, start/end dates, employment status, salary, location, and manager.  
 
-**Skills:** R Coding, data preparation, data tansformation, report automation    
+**Skills:** R coding in data exloration, data cleansing (readr, dplye, tidyr, janitor, lubridate packages)
 
-**Tecnology:** R Studio, readr, dplyr, tidyr, janitor, lubridate  
+**Software:** R Studio 
 
 **Results:** The significance of this script lies in its efficiency. Rather than investing hours upon hours in generating a country-specific report manually, this script accomplishes the task in approximately 10 seconds.
   
