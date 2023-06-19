@@ -80,8 +80,13 @@ The purpose of the report generator is to produce a net headcount report specifi
 **Code:** Python: [`boston-housing.ipynb`](https://github.com/sorravithj/data_analysis_portfolio/blob/main/boston_housing.ipynb)
   
 **Description:** The project aims to analyze factors influencing housing prices in Boston using a comprehensive dataset. The dataset includes attributes such as INDUS, CHAS, NOX, AGE, DIS, PTRATIO, and MEDV. By leveraging Python, the project performs tasks such as data loading, preprocessing, and predictive model building. It explores housing market dynamics, identifies significant predictors, and builds predictive models for estimating housing prices. The project provides valuable insights for buyers and sellers, contributing to informed decision-making in the Boston real estate market.   
-**Skills:** Python coding, data preprocessing, data analysis, data visualisation, predictive modeling  
-**Technology:** Python, numpy, pandas, matplotlib, seaborn, scipy.stats, statsmodels  
+
+**Dataset:** The Boston Housing dataset comprises 506 observations and 14 attributes related to housing and neighborhood characteristics in Boston, Massachusetts. It includes features such as crime rate, zoning, air pollution, room count, age of buildings, distance to employment centers, accessibility to highways, property tax rates, pupil-teacher ratios, population demographics, and median home values. 
+
+**Skills:** Python coding, data preprocessing, data analysis, data visualisation (numpy, pandas, matplotlib, seaborn packages), predictive modeling (scipy.stats, statsmodels)
+
+**Software:** Jupyterlab
+
 **Results:** The project generates insights into the dynamics of the Boston housing market, allowing for informed decision-making by stakeholders. Predictive models provide estimations of housing prices based on relevant attributes, aiding buyers and sellers in their real estate transactions.
 
 ### Sales Analysis and Hierarchy Extraction using SQL  
