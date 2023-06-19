@@ -24,7 +24,7 @@ This is a repository to showcase skills, share projects and track my progress in
     + [Credit Card Transaction Analysis](#credit-card-transaction-analysis)
     + [Boston Housing Analysis](#boston-housing-analysis)
   + SQL
-    + [Extract sales data from SQL Server](#extract-sales-data-from-sql-server)
+    + [Sales Analysis and Hierarchy Extraction using SQL](#Sales-Analysis-and-Hierarchy-Extraction-using-SQL)
   + Business Intelligence Dashboard
     + [Looker Studio: Talent Acquisition Dashboard](#talent-acquisition-dashboard)
     + [Power BI: Promotion Campaign Dashboard](#promotion-campaign-dashboard)
@@ -74,12 +74,12 @@ This script serves as a country headcount report generator, designed to process 
   
 **Description:** This project focuses on extracting and analyzing sales data from a database table. Through SQL queries, I extract sales information, including product codes and their hierarchical relationships (group to subclass), as well as store formats and their corresponding statuses. The analysis aims to provide insights into sales performance, product categorization, and store status evaluation.
 
-**Description:** The dataset used in this project is a sales table within the database. It contains information such as transaction details, product codes, sales amounts, and store format statuses. The dataset encompasses sales data from multiple stores and covers a specific time period.
+**Dataset:** The dataset used in this project is a sales table within the database. It contains information such as transaction details, product codes, sales amounts, and store format statuses. The dataset encompasses sales data from multiple stores and covers a specific time period.
 
 **Skills:** SQL coding, including SELECT, JOIN, FILTER, GROUP BY, hierarchical data modeling  
 **Technology:** SQL server  
 **Results:** 
-Based on the analysis, , the following conclusions and recommendations were made:
+Based on the analysis, the following conclusions and recommendations were made:
 1. Identified top-selling products/categories for targeted marketing.
 2. Improved categorization and decision-making using product hierarchies.
 3. Evaluated store format statuses to identify underperforming stores.
