@@ -19,7 +19,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Portfolio Projects](#portfolio-projects)
   + R Language
     + [Grocery Store Sales Analysis](#grocery-store-sales-analysis)
-    + [Report Generation Automation Using R](#report-generation-automation-using-r)
+    + Report Generator Using R](#report-generator-using-r)
   + Python
     + [Credit Card Transaction Analysis](#credit-card-transaction-analysis)
     + [Boston Housing Analysis](#boston-housing-analysis)
@@ -42,14 +42,18 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** R programming language, ggplot2, dplyr, lubridate  
 **Results:** the project successfully processed and analyzed the sales data, revealing valuable insights that can guide business decisions and strategies for the grocery store in Tamil Nadu, India.  
 
-### Report Generation Automation Using R
+### Report Generator Using R
 **Code:** R: [`headcount-report-automation.R`](https://github.com/sorravithj/data_analysis_portfolio/blob/main/list-of-total-staff-th.r) 
   
 **Description:** 
 This script serves as a country headcount report generator, designed to process an original headcount report consisting of over 200,000 rows. This comprehensive report encompasses every country in which the company operates. The purpose of the report generator is to produce a net headcount report specifically for the previous month, focusing on employees located in Thailand. This report will be utilized by the HR team and the country CEO to effectively plan for the current month's manpower requirements within the Thailand office.  
+
 **Dataset:** The dataset used is a comprehensive headcount report with 200,000+ rows. It includes employee information such as ID, name, country, department, position, start/end dates, employment status, salary, location, and manager.  
+
 **Skills:** R Coding, data preparation, data tansformation, report automation    
+
 **Tecnology:** R Studio, readr, dplyr, tidyr, janitor, lubridate  
+
 **Results:** The significance of this script lies in its efficiency. Rather than investing hours upon hours in generating a country-specific report manually, this script accomplishes the task in approximately 10 seconds.
   
 ### Credit Card Transaction Analysis
