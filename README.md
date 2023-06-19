@@ -69,13 +69,20 @@ This script serves as a country headcount report generator, designed to process 
 **Technology:** Python, numpy, pandas, matplotlib, seaborn, scipy.stats, statsmodels  
 **Results:** The project generates insights into the dynamics of the Boston housing market, allowing for informed decision-making by stakeholders. Predictive models provide estimations of housing prices based on relevant attributes, aiding buyers and sellers in their real estate transactions.
 
-### Extract sales data from SQL Server  
+### Sales Analysis and Hierarchy Extraction using SQL  
 **Code:** SQL: [`sales-data-extract.sql`](https://github.com/sorravithj/data_analysis_portfolio/blob/main/sales-data-from-ms-server.sql)  
   
-**Description:** The database consists of three different tables. The first table is the sales transaction table, which contains daily sales records categorized by product codes. This table holds over a million rows of sales data. The second table is the d_merchandise table, serving as a lookup table that provides hierarchical information for each product code found in the sales transaction table. It complements the sales data with detailed product information. The third table is the d_store table, containing information about all stores, both currently open and previously closed. This table is joined with the sales transaction table using the store code key to associate sales data with specific stores.  
-**Skills:** SQL coding, select, join operation, filter, group by  
-**Technology:** MS SQL  
-**Results:** Upon merging all three tables, a new dataframe is created, which presents the sales information in a format that allows analysis by product and store. This merged dataframe provides valuable insights into sales performance, allowing for analysis of sales trends across different products and store branches.
+**Description:** This project focuses on extracting and analyzing sales data from a database table. Through SQL queries, I extract sales information, including product codes and their hierarchical relationships (group to subclass), as well as store formats and their corresponding statuses. The analysis aims to provide insights into sales performance, product categorization, and store status evaluation.
+
+**Description:** The dataset used in this project is a sales table within the database. It contains information such as transaction details, product codes, sales amounts, and store format statuses. The dataset encompasses sales data from multiple stores and covers a specific time period.
+
+**Skills:** SQL coding, including SELECT, JOIN, FILTER, GROUP BY, hierarchical data modeling  
+**Technology:** SQL server  
+**Results:** 
+Based on the analysis, , the following conclusions and recommendations were made:
+1. Identified top-selling products/categories for targeted marketing.
+2. Improved categorization and decision-making using product hierarchies.
+3. Evaluated store format statuses to identify underperforming stores.
 
 ### Talent Acquisition Dashboard
 **Dashboard:** Looker Studio: [`recruitment-dashboard.pdf`](https://drive.google.com/file/d/1nY0Adlebnb3hDmNJ99yccywwTrnYgUkO/view?usp=sharing)  
