@@ -82,7 +82,9 @@ The purpose of the report generator is to produce a net headcount report specifi
 **Dataset:** The dataset used in this project is a sales table within the database. It contains information such as transaction details, product codes, sales amounts, and store format statuses. The dataset encompasses sales data from multiple stores and covers a specific time period.
 
 **Skills:** SQL coding, including SELECT, JOIN, FILTER, GROUP BY, hierarchical data modeling  
+
 **Technology:** SQL server  
+
 **Results:** 
 Based on the analysis, the following conclusions and recommendations were made:
 1. Identified top-selling products/categories for targeted marketing.
