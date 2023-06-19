@@ -65,9 +65,14 @@ The purpose of the report generator is to produce a net headcount report specifi
 
 **Code:** Python: [`credit-transaction.ipynb`](https://github.com/sorravithj/data_analysis_portfolio/blob/main/credit-card-transaction-analysis.ipynb)
   
-**Description:** The dataset consists of over a million transactions from multiple credit card companies in the United States. It covers decades of purchases, including multiple cards per consumer. This project utilizes Python instead of R for tasks such as data loading, structure overview, cleansing, processing, merging, outlier removal, and exploratory analysis. It analyzes transaction volumes by year, purchasing states, and categories, providing explanations and business recommendations.   
-**Skills:** Python coding, data exploration, data cleansing, data transfomation, data merging, descriptive statistics, data visualisation  
-**Technology:** Python, numpy, pandas, matplotlib, seaborn  
+**Description:** This project utilizes Python instead of R for tasks such as data loading, structure overview, cleansing, processing, merging, outlier removal, and exploratory analysis. It analyzes credit card transaction volumes by year, purchasing states, and categories. The findings are used to provide explanations and actionable business recommendations. 
+
+**Dataset:** The dataset contains over a million transactions from various credit card companies in the United States, covering decades of purchases. It includes multiple cards per consumer, offering insights into diverse spending habits and patterns.
+
+**Skills:** Python coding in data exploration, data cleansing, data transfomation (numpy, pandas modules), descriptive statistics, data visualisation (matplotlib, seaborn modules) 
+
+**Software:** Jupyterlab 
+
 **Results:** the project generated valuable insights into the credit card transaction data, allowing for informed decision-making and strategic planning within the credit card industry.
 
 ### Boston Housing Analysis
