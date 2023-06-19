@@ -19,7 +19,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Portfolio Projects](#portfolio-projects)
   + R Language
     + [Grocery Store Sales Analysis](#grocery-store-sales-analysis)
-    + Report Generator Using R](#report-generator-using-r)
+    + [Report Generator Using R](#report-generator-using-r)
   + Python
     + [Credit Card Transaction Analysis](#credit-card-transaction-analysis)
     + [Boston Housing Analysis](#boston-housing-analysis)
