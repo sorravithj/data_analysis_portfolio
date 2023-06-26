@@ -96,7 +96,7 @@ The purpose of the report generator is to produce a net headcount report specifi
 
 **Dataset:** The dataset used in this project is a sales table within the database. It contains information such as transaction details, product codes, sales amounts, and store format statuses. The dataset encompasses sales data from multiple stores and covers a specific time period.
 
-**Skills:** SQL coding (SQL Server), including SELECT, JOIN, FILTER, GROUP BY, hierarchical data modeling  
+**Skills:** SQL coding (SQL Server) including SELECT, JOIN, FILTER, GROUP BY, hierarchical data modeling  
 
 **Software:** DBeaver  
 
@@ -107,8 +107,7 @@ Based on the analysis, the following conclusions and recommendations were made:
 3. Evaluated store format statuses to identify underperforming stores.
 
 ### Talent Acquisition Dashboard
-**Dashboard:** Looker Studio: [`recruitment-dashboard.pdf`](https://drive.google.com/file/d/1nY0Adlebnb3hDmNJ99yccywwTrnYgUkO/view?usp=sharing)  
-**Technology:** Looker Studio, Google Sheets, R Studio, Web API  
+**Dashboard:** Looker Studio: [`recruitment-dashboard.pdf`](https://drive.google.com/file/d/1nY0Adlebnb3hDmNJ99yccywwTrnYgUkO/view?usp=sharing)    
   
 **Description:**  
 
@@ -116,13 +115,15 @@ This dashboard contains datasets of talent acquisition team from a small start-u
 
 The data includes the number of positions available and closed, successful and rejection rate of candidates.  
   
-**Data Source:**
+**Dataset:**
 
 Primary sources of this daahboard came from google spreadsheet software  connected to the dashboard. The data were pulled using API provided by the systems (HRIS) and R script’s googlesheets4 package from tidyverse. 
 
+**Software:** Looker Studio, Google Sheets, R Studio, Web API
+
 **Data Flow Diagram:** HRIS systems > Web API and R script > Google Sheets > Looker Studio  
 
-**Data Manipulation:**  
+**Skills:**  
 
 Data manipulation process happened two places which were inside the google sheets and inside the google looker studio itself.
 
@@ -142,21 +143,23 @@ The findings led the company to conduct current employees survey and exit feedba
 
 ### Promotion Campaign Dashboard
 **Dashboard:** Power BI: [`promotion-dashboard.pdf`](https://drive.google.com/file/d/1yikUz0orXr0qKbyGw0u0-BKJsmL1PHEL/view?usp=sharing)  
-**Technology:** Power BI, MS SQL, R Studio, DAX, Power Query  
 
 **Description:**  
 This BI dashboard contains more than 10 million rows of sales from a retail business including date, store format, campaign name, campaign week to head of each product category. 
 
 The purpose of this dashboard is to track top 5 most important measures which are Sales, GP, Compensation, Discount, and Other Incomes which will help company decide which products should and shouldn’t run the promotion and what the promotion should be run at a given store.  
  
-**Data Source:** MS SQL Server   
+**Datasete:** MS SQL Server   
+
+**Software:** Power BI, MS SQL, R Studio, DAX, Power Query  
+
 
 **Data Flow Diagram:**  
 
 1. SQL Server > Power BI  
 2. SQL Server > R > Parquet file > Power BI   
 
-**Data Manipulation:**  
+**Skills:**  
 
 Data Manipulation and Data Cleansing happened two places which were SQL Server and Power Query and DAX inside the Power BI. 
 
@@ -179,8 +182,13 @@ Inside the Power Query and DAX the data manipulation included conditial column, 
 **Presentation:** [`employee-exit.pdf`](https://github.com/sorravithj/data_analysis_portfolio/blob/main/exit-analysis-presentation.pdf)  
   
 **Description:** A company faced persistent disruption due to high employee turnover and decided to investigate the underlying causes. Using a simulated dataset with 778 records, the project analyzed employee data including status, tenure, gender, salary, and exit feedback. R and RStudio were utilized for tasks such as data loading, cleansing, outlier removal, descriptive statistics, data visualization, and deriving insights.    
-**Skills:** R coding, data exploration, data cleansing, descriptive statistics, data visualisation, and business knowledge    
-**Technology:** R Studio, ggplot2, dplyr, readr, lubridate, and janitor   
+
+**Dataset:** a dataset of 778 records containing employee information such as joining date, last day of working, reason of leaving and their performance grades and other demographic data
+  
+**Software:** R Studio   
+
+**Skills:** R coding (ggplot2, dplyr, readr, lubridate, and janitor packages) which included data exploration, data cleansing, descriptive statistics, data visualisation, and business knowledge for providing insights
+
 **Results:** this project uncovered the underlying causes of employee turnover, enabling the company to make informed decisions and implement effective measures to reduce turnover and improve overall employee satisfaction and retention.
 
 ## Contact
