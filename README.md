@@ -89,7 +89,8 @@ The purpose of the report generator is to produce a net headcount report specifi
 
 **Results:** The project generates insights into the dynamics of the Boston housing market, allowing for informed decision-making by stakeholders. Predictive models provide estimations of housing prices based on relevant attributes, aiding buyers and sellers in their real estate transactions.
 
-### Sales Analysis and Hierarchy Extraction using SQL  
+### SQL: Sales Analysis and Hierarchy Extraction    
+
 **Code:** SQL: [`sales-data-extract.sql`](https://github.com/sorravithj/data_analysis_portfolio/blob/main/sales-data-from-ms-server.sql)  
   
 **Description:** This project focuses on extracting and analyzing sales data from a database table. Through SQL queries, I extract sales information, including product codes and their hierarchical relationships (group to subclass), as well as store formats and their corresponding statuses. The analysis aims to provide insights into sales performance, product categorization, and store status evaluation.
@@ -99,6 +100,22 @@ The purpose of the report generator is to produce a net headcount report specifi
 **Skills:** SQL coding (SQL Server) including SELECT, JOIN, FILTER, GROUP BY, hierarchical data modeling  
 
 **Software:** DBeaver  
+
+### SQL: Rank Top Models Sold by Salespeople
+
+**Code:** SQL: [`rank-salespeople's-top-models.sql`](https://github.com/sorravithj/data_analysis_portfolio/blob/main/rank-salespeople's-top-models.sql)  
+  
+**Description:** the script retrieves data about car sales made by employees, including their names, the car models sold, and the corresponding number of sales. It also assigns a rank to each employee based on their sales performance, with the highest number of car sales receiving a rank of 1.
+
+**Dataset:** The dataset comprises tables for sales, employees, inventory, and car models.    
+The "sales" table stores individual sales transactions with employee and car information.    
+The "employee" table contains employee data associated with sales.    
+The "inventory" table holds car inventory details, and    
+the "model" table stores information about different car models, including their unique identifiers and names.
+
+**Skills:** SQL coding (SQL Server) including SELECT, JOIN, GROUP BY, ORDER BY, WONDIWS FUNCTIONS (RANK, PARITITION BY)
+
+**Software:** DBeaver 
 
 **Results:** 
 Based on the analysis, the following conclusions and recommendations were made:
