@@ -90,7 +90,7 @@ The purpose of the report generator is to produce a net headcount report specifi
 
 **Results:** The project generates insights into the dynamics of the Boston housing market, allowing for informed decision-making by stakeholders. Predictive models provide estimations of housing prices based on relevant attributes, aiding buyers and sellers in their real estate transactions.
 
-### SQL: Sales Analysis and Hierarchy Extraction    
+### Sales Analysis and Hierarchy Extraction    
 
 **Code:** SQL: [`sales-data-extract.sql`](https://github.com/sorravithj/data_analysis_portfolio/blob/main/sales-data-from-ms-server.sql)  
   
@@ -102,7 +102,7 @@ The purpose of the report generator is to produce a net headcount report specifi
 
 **Software:** DBeaver  
 
-### SQL: Rank Top Models Sold by Salespeople
+### Rank Top Models Sold by Salespeople
 
 **Code:** SQL: [`rank-salespeople's-top-models.sql`](https://github.com/sorravithj/data_analysis_portfolio/blob/main/rank-salespeople's-top-models.sql)  
   
