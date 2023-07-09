@@ -113,15 +113,12 @@ The "employee" table contains employee data associated with sales.
 The "inventory" table holds car inventory details, and    
 the "model" table stores information about different car models, including their unique identifiers and names.
 
-**Skills:** SQL coding (SQL Server) including SELECT, JOIN, GROUP BY, ORDER BY, WONDIWS FUNCTIONS (RANK, PARITITION BY)
+**Skills:** SQL coding (SQL Server) including SELECT, JOIN, GROUP BY, ORDER BY, window functions (RANK, PARITITION BY)
 
 **Software:** DBeaver 
 
 **Results:** 
-Based on the analysis, the following conclusions and recommendations were made:
-1. Identified top-selling products/categories for targeted marketing.
-2. Improved categorization and decision-making using product hierarchies.
-3. Evaluated store format statuses to identify underperforming stores.
+The result set would be ordered by the employeeId, firstName, lastName, and the CarSold count in descending order. This allows you to see which car models each salesperson has sold the most, and the ranking provides a relative measure of their sales performance for each car model.
 
 ### Talent Acquisition Dashboard
 **Dashboard:** Looker Studio: [`recruitment-dashboard.pdf`](https://drive.google.com/file/d/1nY0Adlebnb3hDmNJ99yccywwTrnYgUkO/view?usp=sharing)    
