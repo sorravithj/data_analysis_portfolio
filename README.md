@@ -25,7 +25,7 @@ This is a repository to showcase skills, share projects and track my progress in
     + [Boston Housing Analysis](#boston-housing-analysis)
   + SQL
     + [Sales Analysis and Hierarchy Extraction](#Sales-Analysis-and-Hierarchy-Extraction)
-    + [Rank Top Models Sold by Salespeople](#RankTop-Models-Sold-by-Salespeople)
+    + [Rank Top Models Sold by Salespeople](#Rank-Top-Models-Sold-by-Salespeople)
   + Business Intelligence Dashboard
     + [Looker Studio: Talent Acquisition Dashboard](#talent-acquisition-dashboard)
     + [Power BI: Promotion Campaign Dashboard](#promotion-campaign-dashboard)
