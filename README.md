@@ -4,7 +4,7 @@
 
 Hello! I'm Sorravith, and I have a background in Psychology. Throughout my college years, I gained technological knowledge in R programming language and SPSS, both of which are frequently utilized in research studies. Over five years, I have been working in the field of data analysis.
 
-My journey in data analysis began as a People Data Analyst in the HR department of a technological startup. After about a year and a half, I transitioned to my current role as a Business Intelligence Specialist in the Business Performance department of one of the largest retail companies in the country.
+My journey in data analysis began as a People Data Analyst in the HR department of a technological startup. After about a year and a half, I transitioned to my current role as a Senior Data Analytics Specialist in the Customer Service department in one of the largest insurance companies in the country.
 
 During my professional experience, I have honed my skills in various areas, including Microsoft Excel, Power Query, SQL, R programming language, Python, and Power BI. These skills have allowed me to perform data analysis tasks effectively and derive meaningful insights to drive business performance and decision-making.
 
