@@ -2,7 +2,7 @@
 
 ## About
 
-Hello! I'm Sorravith, and I have a background in Psychology. Throughout my college years, I gained technological knowledge in R programming language and SPSS, both of which are frequently utilized in research studies. Over the past two years, I have been working in the field of data analysis.
+Hello! I'm Sorravith, and I have a background in Psychology. Throughout my college years, I gained technological knowledge in R programming language and SPSS, both of which are frequently utilized in research studies. Over five years, I have been working in the field of data analysis.
 
 My journey in data analysis began as a People Data Analyst in the HR department of a technological startup. After about a year and a half, I transitioned to my current role as a Business Intelligence Specialist in the Business Performance department of one of the largest retail companies in the country.
 
