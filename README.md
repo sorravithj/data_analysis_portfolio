@@ -157,7 +157,7 @@ Inside the Looker Studio includes using functions and operators to create calcul
 The findings led the company to conduct current employees survey and exit feedback. The roots of the problem came from pay rate and direct managers for the tech department but from client if the client-facing positions. This helped the company to solve the problem with the right solution afterwards.  
 
 ### Promotion Campaign Dashboard
-**Dashboard:** Power BI: [`promotion-dashboard.pdf`](https://drive.google.com/file/d/1vRaeD58_wWdpFZOYVXi4eOLU3mJqYpAy/view?usp=drivesdk)  
+**Dashboard:** Power BI: [`promotion-dashboard.pdf`](https://drive.google.com/file/d/10hBkd4_WrMT8Kvnt2peRtdz1b0CUhw4c/view?usp=drive_link)  
 
 **Description:**  
 This BI dashboard contains more than 10 million rows of sales from a retail business including date, store format, campaign name, campaign week to head of each product category. 
